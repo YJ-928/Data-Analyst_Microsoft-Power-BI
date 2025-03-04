@@ -1,0 +1,5 @@
+Fintech Loan Risk | Capstone Project - 2 ( Part-B)
+
+Problem Statement
+
+Identify the parameters that relate to a potential defaulting behaviour, such that a better decision could be made while processing the loan application.

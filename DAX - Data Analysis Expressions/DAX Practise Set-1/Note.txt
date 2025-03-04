@@ -1,0 +1,3 @@
+Note
+
+If the "Hire Date" column is not displayed in the desired date format, you can change the data type of the "Hire Date" column to the "Date" data type.

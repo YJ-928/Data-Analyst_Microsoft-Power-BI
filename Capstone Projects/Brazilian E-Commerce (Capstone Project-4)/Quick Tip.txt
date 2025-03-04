@@ -1,0 +1,2 @@
+Quick Tip
+An order might have multiple items. Each item in such order might be fulfilled by a different seller.

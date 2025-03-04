@@ -1,0 +1,3 @@
+Problem Statement
+
+Identify the factors that most influence loan approval decision, providing insights to optimize the approval process and reduce the risk of defaults

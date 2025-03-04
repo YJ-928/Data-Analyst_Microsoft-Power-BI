@@ -1,0 +1,21 @@
+About the Dataset
+
+This dataset has 6 CSV files elaborating the details of Bangladesh Generic Medicine market. Data was scraped from the medex sub-domain of Bangladesh.
+
+Download the dataset (Extract the zip file after downloading.)
+LINK:- (https://s3.ap-south-1.amazonaws.com/new-assets.ccbp.in/frontend/content/data-analytics/Datasets_DA_Track/Capstone_Project-1_Dataset.zip)
+
+
+medicine.csv : Generic medicines available in the Bangladesh Generic Medicine market.
+
+manufacturer.csv : Manufacturers of generic medicines in the Bangladesh Generic Medicine market.
+
+indication.csv: Medical indications, which are the specific conditions or diseases for which generic medicines are prescribed.
+
+generic.csv : Generic drugs, including their characteristics and usage details.
+
+drug class.csv : Drug classes, which categorize generic medicines based on their therapeutic classes or categories.
+
+dosage form.csv : The various dosage forms in which generic medicines are available.
+
+Column_Description.xlsx	: The columns of all tables in the dataset. (No need to load this file into your visualization tool, it is just for understanding the dataset.)

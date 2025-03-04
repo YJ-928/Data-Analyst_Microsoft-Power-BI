@@ -1,0 +1,5 @@
+Quick Tip
+
+Remove slug Column from all tables.
+
+Some additional cleaning and transformation is needed for the medicine.csv file, in "Package Container" columns to extract price information.

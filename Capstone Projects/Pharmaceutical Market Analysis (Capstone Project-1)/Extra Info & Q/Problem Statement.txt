@@ -1,0 +1,11 @@
+Pharmaceutical Market Analysis | Capstone Project - 1
+
+Problem Statement
+
+Dr. Malhotra's Laboratories Pvt. Ltd. plans to enter the Bangladeshi generic medicine market. 
+
+The predictions indicate that there is going to be a lot of cases of malaria and dengue. 
+
+Focus on antimalarial and anti-pyretic (fever reducing) drug classes and perform market landscape analysis for these sub-segment..
+
+

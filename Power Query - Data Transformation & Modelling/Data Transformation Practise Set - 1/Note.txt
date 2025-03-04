@@ -1,0 +1,5 @@
+Note
+
+Excel/Google Sheet - Any/All Operations that are done in Excel/Google Sheets need to be submitted.
+
+Power Query - Any/All Operations done in Power query is just for practice and need not be submitted.

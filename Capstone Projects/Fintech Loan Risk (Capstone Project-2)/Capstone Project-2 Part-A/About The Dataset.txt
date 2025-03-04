@@ -1,0 +1,19 @@
+About the Dataset
+
+This dataset has 3 CSV files elaborating the details of Fintech loan Risk.
+
+The dataset, originating from a non-banking financial company (NBFC), provides valuable insights into applicant behavior, crucial for risk mitigation (risk reduction). Home Credit's international expansion history adds context to understanding risk factors across diverse financial landscapes.
+
+Leverage Home Credit's data to assess risk at different stages, emphasizing the need to make informed decisions during processing to avoid accumulating small risks that could lead to catastrophic failures for the bank.
+
+application.csv	: Recently approved loans
+
+bureau.csv : Applicant's loans taken from other banks
+
+previous_application.csv : Applicant's previous loans applied at the same bank
+
+Column_Description.xlsx : The columns of all tables in the dataset. (No need to load this file into your visualization tool, it is just for understanding the dataset.)
+
+Download LINK:-
+
+https://s3.ap-south-1.amazonaws.com/new-assets.ccbp.in/frontend/content/data-analytics/Datasets_DA_Track/Capstone_Project_2A_Dataset.zip

@@ -1,0 +1,30 @@
+About the Dataset
+
+This dataset has 9 CSV files elaborating the details of E-commerce.
+
+The dataset has information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil. Its features allows viewing an order from multiple dimensions: from order status, price, payment and freight performance to customer location, product attributes and finally reviews written by customers. We also released a geolocation dataset that relates Brazilian zip codes to latitude/longitude coordinates.
+
+All text identifying stores and partners were replaced by the names of Game of Thrones houses for maintaining anonymity.
+
+customers.csv : Customer information.
+
+geolocation.csv : Geolocation data associated with customers or sellers
+
+order_items.csv : Details about items within orders.
+
+order_payments.csv : Information about payments made for orders
+
+order_reviews.csv : Customer reviews for orders
+
+order.csv : General information about orders, including order IDs
+
+productions.csv : Information about available products
+
+sellers.csv : Information about platform sellers.
+
+translation.csv : Translations from Brazilian product names to English names.
+
+Column Description full.xlsx : The columns of all tables in the dataset. (No need to load this file into your visualization tool, it is just for understanding the dataset.)
+
+Download LINK:-
+https://s3.ap-south-1.amazonaws.com/new-assets.ccbp.in/frontend/content/data-analytics/Datasets_DA_Track/Capstone-4_Dataset.zip

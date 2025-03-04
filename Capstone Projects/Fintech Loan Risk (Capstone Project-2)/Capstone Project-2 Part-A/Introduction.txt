@@ -1,0 +1,7 @@
+Fintech Loan Risk | Capstone Project - 2 ( Part-A)
+
+Introduction
+
+When a person borrows a loan and is unable to pay the installment (which is interest and principal) for X consecutive months then it is called defaulting.  It is possible to identify whether a person (applicant) is capable of paying the installment regularly with the data collected through the credit bureau as well as the data collected in the application form. If data driven decision processes and protocols are not followed during the loan approval process, then the loan of a person who is unable to pay the installment will get approved increasing the risk. When a single customer defaults, then the bank is at a small risk. When a large number of customer defaults, the risk increases as it accumulates. This way, a series of small bad decisions can lead to a big problem. 
+
+The dataset for this project is from Home Credit - a Non Banking Financial Company (NBFC) based in the Czech Republic, however they also operate in other countries. The data is about the loans that have been approved recently and other few relevant ones. Use this data to analyze and identify whether any factors influence the loan approval process. There could be some flaws existing in the loan approval process which is carried out by bank personnels, for example: end of the day and / or end of the week effect. If you identify these factors as negatively influencing the approval process leading to more defaults, propose few recommendations.

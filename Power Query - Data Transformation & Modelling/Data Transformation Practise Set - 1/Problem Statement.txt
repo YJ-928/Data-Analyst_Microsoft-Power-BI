@@ -1,0 +1,9 @@
+Problem Statement
+
+You have been given a dataset consisting of multiple sub sheets in an Excel workbook. 
+
+Each sub sheet contains different sets of data that require specific transformations to be performed. 
+
+Your goal is to successfully complete these data transformations in each sub sheet, ensuring that the data is organized, cleansed, and ready for further analysis. 
+
+Once completed, you are required to submit the transformed dataset as per the specified submission guidelines.

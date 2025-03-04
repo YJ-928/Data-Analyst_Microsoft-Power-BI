@@ -1,0 +1,38 @@
+Questions
+(Same questions given below will be asked in the MCQs test)
+
+Questions Related to Problem Statement
+
+How much % of defaulters are there in the application table ?
+
+How many % of applicants are married?
+
+What is the most frequently occuring size of family among the applicants?
+
+Which is the top occupation type?
+
+How many % of applicants are Male?
+
+How much % are revolving loans (credit card - every month the loan revolves)?
+
+Is there a relationship between work experience and average amount of total income?
+
+What is the total amount of money recently approved for loan (application.csv)?
+
+What is the number of additional documents (FlagDocument2 to FlagDocument21) that have been submitted in most of the applications, excluding application form (Document_1)?
+
+How is the total area of house and average amount of credit correlated?
+
+How is the average amount of credit requested and total income correlated?
+
+How many applicants have brought a new phone in the last month (reference as the application date)?
+
+How many current applicant's previous loans (at least one of them) have been approved?
+
+Which is the second highest product category for which the previous loans were approved and how many were approved?
+
+How many of the active previously approved loans which are at a risk of default, Considering that some of the loan applicants have defaulted on their recent loans?
+
+Whether loans for which the approval process started at the end of the day had more defaults?
+
+Whether loans for which the approval process started at the end of the week had more defaults?

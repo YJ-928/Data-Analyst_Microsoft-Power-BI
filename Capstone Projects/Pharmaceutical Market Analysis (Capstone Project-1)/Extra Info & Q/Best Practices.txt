@@ -1,0 +1,9 @@
+Best Practices
+
+Develop basic understanding of what the dataset is about - ask questions about the column name to understand the domain / process.
+
+Identify unclean data, primary key, foreign keys in each table.
+
+Establish relationships between the tables. Sometimes the organization you work for will provide you with the ER diagram. If the data source is external, you have to figure out the relationships.
+
+Don't hesitate to switch between Power BI and Power query, mentally visualize what you need and plot them accordingly, if the columns are not there, calculate the required ones using transformation.

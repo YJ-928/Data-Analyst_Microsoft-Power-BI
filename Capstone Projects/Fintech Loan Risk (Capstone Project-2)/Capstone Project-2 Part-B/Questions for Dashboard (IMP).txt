@@ -1,0 +1,23 @@
+Questions
+(Same questions given below will be asked in the MCQs test)
+
+Questions Related to Problem Statement
+How many applicants already have credit cards issued by the same bank?
+
+How many applicants already have taken some form of loan such that their credit information is available with the bureau card issued by the same bank?
+
+How many applicants have applied for loans previously in the same bank?
+
+How many current applicants made lesser payments for installments on their previous loans
+
+What percentage of those who made lesser payments (reference has changed) of  installments for their previous loans also defaulted on the recently approved loan (current)?
+
+What is the maximum number of previously approved loans per applicant in the given dataset (including the recently applied loan)?
+
+How many of the applicants have defaulted despite successfully completing a previously approved loan?
+
+Have the applicants who drew cash from credit cards defaulted?
+
+Among the previously approved loans, how many users have 5 active loans?
+
+Among the previously approved loans, how many defaulters have more than 3 loans approved?

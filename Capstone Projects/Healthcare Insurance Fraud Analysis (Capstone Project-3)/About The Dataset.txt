@@ -1,0 +1,15 @@
+About the Dataset
+This dataset has 4 CSV files elaborating the details of Healthcare Insurance.
+
+InPatientData.csv : The claims filed for those patients who are admitted in the hospitals.
+
+OutPatientData.csv : The claims filed for those patients who visit hospitals and not admitted in it.
+
+Beneficiary.csv : Beneficiary KYC (Know Your Customer) details like health conditions, region, etc.
+
+GeninueOrFraud.csv : Whether each insurance provider is genuine or fraudulent.
+
+Column_Descriptions.xlsx : The columns of all tables in the dataset. (No need to load this file into your visualization tool, it is just for understanding the dataset.)
+
+Download LINK:-
+https://s3.ap-south-1.amazonaws.com/new-assets.ccbp.in/frontend/content/data-analytics/Datasets_DA_Track/DA_Capstone_3_Dataset.zip

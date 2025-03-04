@@ -1,0 +1,15 @@
+Healthcare Insurance Fraud analysis | Capstone Project - 3
+
+Introduction
+
+Insurance Provider Fraud is one of the biggest problems in Government funded health insurance. Health insurance fraud is actually an organized crime which involves peers of insurance providers corroborated by physicians, beneficiaries to make fraudulent claims. Rigorous analysis followed by investigation of the health insurance data has revealed many physicians and hospitals indulge in fraud and this is a worldwide phenomenon. 
+
+Insurance companies or Government agencies which reimburse the claims are the most vulnerable institutions impacted due to these bad practices.  Due to this reason, insurance companies increased their insurance premiums and in case of Government funded healthcare programmes the tax for common man increases! As a result healthcare is becoming a costly matter day-by-day for a common man.
+
+Healthcare fraud and abuse take many forms. Some of the most common types of frauds by insurance providers are:
+
+a) Billing for services that were not provided.
+b) Duplicate submission of a claim for the same service.
+c) Misrepresenting the service provided.
+d) Charging for a more complex or expensive service than was actually provided.
+e) Billing for a covered service when the service actually provided was not covered.

@@ -1,0 +1,5 @@
+Dashboard or Report Creation
+
+You Have to create a comprehensive dashboard or report (Either in Power BI or Tableau) that effectively addresses the questions provided in this cheat sheet. 
+
+Ensure that your visualizations are clear, insights are well-documented, and the overall presentation is professional.
